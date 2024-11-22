@@ -28,6 +28,14 @@ Projetar e analisar os modelos de aprendizado de máquina criados para identific
 * Aplicação de métodos de classificação;
 * Avaliação do desempenho do modelo gerado.
 
+## Modelos utilizados 
+### 1. Suporte ao algoritmo de aprendizado de máquina vetorial (SVM):
+
+O Support Vector Machine (SVM) é um algoritmo de aprendizado de máquina supervisionado. Resolve problemas envolvendo classificação e regressão. No SVM, os dados são divididos em classes separadas por um hiperplano (uma linha). O SVM visa localizar o hiperplano que maximiza a distância entre classes distintas, um processo conhecido como maximização de margem, o que aumenta a probabilidade de classificar corretamente os dados. A previsão do mercado de ações é uma das aplicações do SVM.
+
+### 2. K-Nearest Neighbors (KNN):
+O algoritmo K-Nearest Neighbors (KNN) é um classificador de aprendizado supervisionado não paramétrico, que usa a proximidade para fazer classificações ou previsões sobre o agrupamento de um ponto de dados individual. É um dos classificadores de classificação e regressão populares e mais simples usados no aprendizado de máquina hoje.
+
 ## Métricas 
 ### Acurácia: Proporção de exemplos que foram preditos corretamente pelo modelo.
 ### Precisão: Identifica quais exemplos que o modelo classificou como positivo, realmente eram positivos.
